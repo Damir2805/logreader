@@ -35,6 +35,6 @@ loop do
 	
 	puts "There were #{alerts_counter} NOK events per last minute"
 
-	sleep 20	
+	sleep 60
 
 end
